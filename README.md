@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SurekaKumaravel
-- 🌱 I’m currently learning Python in Data Analaysis
+- 🌱 I’m currently learning Python in Data Analysis
 
 ****  ABOUT ME ****
   Enthusiastic aspiring data analyst with a strong foundation in data 
